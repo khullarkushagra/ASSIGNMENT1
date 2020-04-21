@@ -11,22 +11,22 @@ header{
 }
 
 .sty_index{
-	background-image: url('/pictures/wall.jpg');
+	background-image: url('pictures/wall.jpg');
 	background-size: cover;
 }
 
 .sty_cp{
-	background-image: url('/pictures/tel.jpg');
+	background-image: url('pictures/tel.jpg');
 	background-size: cover;
 }
 
 .sty_ach{
-	background-image: url('/pictures/acad1.jpg');
+	background-image: url('pictures/acad1.jpg');
 	background-size: cover;
 }
 
 .sty_int{
-	background-image: url('/pictures/back5.jpg');
+	background-image: url('pictures/back5.jpg');
 	background-size: cover;
 }
 
