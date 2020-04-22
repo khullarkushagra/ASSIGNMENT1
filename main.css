@@ -121,7 +121,7 @@ h1::first-letter{
 	font-size: 36px;
 	margin:40px;
 	color: black;
-	padding-bottom:60px;
+	padding-bottom:70px;
 }
 
 
@@ -247,12 +247,12 @@ h1::first-letter{
 
 @keyframes web{
 	from{ transform : translateX(-650px); }
-	to{ transform: translateX(420px); }
+	to{ transform: translateX(410px); }
 }
 
 @keyframes sketch{
 	from{ transform : translateX(-1300px); }
-	to{ transform: translateX(530px); }
+	to{ transform: translateX(520px); }
 }
 
 @keyframes slide{
