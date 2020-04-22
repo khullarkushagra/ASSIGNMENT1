@@ -67,7 +67,7 @@ header{
 	float:left;
 	margin: 10px;
 	font-size: 40px;
-	font-family:'Open Sans', sans-serif;
+	font-family: 'Girassol', cursive;
 }
 
 ul li{
@@ -81,7 +81,7 @@ ul li a{
 	line-height: 72px;
 	color: black;
 	font-size: 30px;
-	font-family:'Open Sans', sans-serif;
+	font-family: 'Girassol', cursive;
 }
 
 ul li a:hover{
@@ -119,6 +119,7 @@ h1::first-letter{
 }
 
 .sty_intro{
+	display:inline-block;
 	font-size: 36px;
 	margin:40px;
 	color: black;
