@@ -1,7 +1,7 @@
 *{
 	margin:0;
 	padding: 0;
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Open Sans', sans-serif;
 }
 
 header{
@@ -121,6 +121,8 @@ h1::first-letter{
 	margin:40px;
 	color: black;
 	padding-bottom:80px;
+	border: 4px solid black;
+	border-radius:10px;
 }
 
 
